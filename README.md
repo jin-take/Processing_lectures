@@ -1,1 +1,4 @@
-# Processing_lectures
+# Processing lectures
+
+コード保管用リポジトリ．
+
