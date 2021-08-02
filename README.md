@@ -8,3 +8,7 @@ RGBの領域を通過することで，ポイントの色が変化する．
 
 ### mid-term
 ブロック崩しのコード
+
+### references
+- https://gotutiyan.hatenablog.com/entry/2020/06/10/170536
+- 
